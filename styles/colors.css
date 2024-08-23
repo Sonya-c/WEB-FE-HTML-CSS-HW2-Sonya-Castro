@@ -1,0 +1,37 @@
+:root {
+    --color-GreenSmoke-50: #f6f7f2;
+    --color-GreenSmoke-100: #edf0e5;
+    --color-GreenSmoke-200: #dce1cc;
+    --color-GreenSmoke-300: #cad2b2;
+    --color-GreenSmoke-400: #b9c398;
+    --color-GreenSmoke-500: #a6b37d;
+    --color-GreenSmoke-600: #8c9a5a;
+    --color-GreenSmoke-700: #697444;
+    --color-GreenSmoke-800: #464d2d;
+    --color-GreenSmoke-900: #232717;
+    --color-GreenSmoke-950: #11130b;
+
+    --color-Acapulco-50: #f2f7f6;
+    --color-Acapulco-100: #e5f0ed;
+    --color-Acapulco-200: #cce1db;
+    --color-Acapulco-300: #b2d2c9;
+    --color-Acapulco-400: #98c3b7;
+    --color-Acapulco-500: #7db3a5;
+    --color-Acapulco-600: #5a9a89;
+    --color-Acapulco-700: #447467;
+    --color-Acapulco-800: #2d4d45;
+    --color-Acapulco-900: #172722;
+    --color-Acapulco-950: #0b1311;
+
+    --color-Bouquet-50: #f7f2f6;
+    --color-Bouquet-100: #f0e5ed;
+    --color-Bouquet-200: #e1ccdc;
+    --color-Bouquet-300: #d2b2ca;
+    --color-Bouquet-400: #c398b9;
+    --color-Bouquet-500: #b37da6;
+    --color-Bouquet-600: #9a5a8c;
+    --color-Bouquet-700: #744469;
+    --color-Bouquet-800: #4d2d46;
+    --color-Bouquet-900: #271723;
+    --color-Bouquet-950: #130b11;
+}

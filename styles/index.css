@@ -1,2 +1,13 @@
 @import url('utilities.css');
-@import url('fonts.css')
+@import url('fonts.css');
+@import url('colors.css');
+
+body {
+    background-color: var(--color-GreenSmoke-100);
+    color: var(--color-Bouquet-900);
+}
+
+footer {
+    background-color: var(--color-Acapulco-950);
+    color: var(--color-GreenSmoke-100);
+}

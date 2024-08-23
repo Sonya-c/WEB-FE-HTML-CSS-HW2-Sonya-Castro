@@ -1,5 +1,22 @@
 @import url('base.css');
 
+header {
+    border-bottom: 1px solid var(--color-GreenSmoke-300);
+}
+
+header div {
+    max-width: var(--container-max-w-lg);
+    justify-content: space-between;
+    margin: auto;
+}
+
+header div nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+
 footer {
     background-color: var(--color-Acapulco-950);
     color: var(--color-GreenSmoke-100);

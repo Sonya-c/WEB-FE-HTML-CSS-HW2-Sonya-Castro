@@ -1,0 +1,12 @@
+@import url('utilities.css');
+@import url('fonts.css');
+@import url('colors.css');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: var(--font-Lato);
+    font-weight: 400;
+    background-color: var(--color-GreenSmoke-100);
+    color: var(--color-Bouquet-900);
+}

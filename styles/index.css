@@ -126,7 +126,7 @@ main section.about h2 {
 }
 
 main section.about p {
-    max-width: 80%;
+    max-width: 60%;
 }
 
 main section.about img {
@@ -237,10 +237,20 @@ footer {
 footer div.content {
     max-width: var(--container-max-w-lg);
     margin: auto;
+    gap: 2rem;
     padding: 2rem;
 }
 
 footer div.copyrigth {
     padding: 1rem;
     border-top: 1px solid var(--color-GreenSmoke-300);
+}
+
+footer img {
+    max-width: 80%;
+}
+
+footer a {
+    color: inherit;
+    font-weight: inherit;
 }

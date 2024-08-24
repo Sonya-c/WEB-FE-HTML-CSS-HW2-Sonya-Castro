@@ -29,6 +29,50 @@ aside h2 {
     margin-bottom: 1rem;
 }
 
+
+aside div.new {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    align-items: center;
+}
+
+aside div.new img {
+    width: 50px;
+    height: 50px;
+    max-width: 50px;
+    max-width: 50px;
+    min-width: 50px;
+    min-width: 50px;
+    object-fit: cover;
+}
+
+aside div.new .title {
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+aside div.new .date {
+    font-size: .8rem;
+    font-weight: 400;
+    margin: 0;
+}
+
+aside div.social-media {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+
+aside div.social-media span.icon {
+    background-color: var(--color-GreenSmoke-800);
+}
+
+aside div.social-media span.icon:hover {
+    background-color: var(--color-Bouquet-600);
+}
+
 footer {
     background-color: var(--color-Acapulco-950);
     color: var(--color-GreenSmoke-100);

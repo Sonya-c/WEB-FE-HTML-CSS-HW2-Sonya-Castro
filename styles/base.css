@@ -40,3 +40,27 @@ a.link-button {
 a.link-button:hover {
     background-color: var(--color-Bouquet-800);
 }
+
+span.icon {
+    display: inline-block;
+    width: 1.5rem;
+    height: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span.icon.instagram {
+    -webkit-mask: url('../assets/icons/instagram.svg') no-repeat center;
+    mask: url('../assets/icons/instagram.svg') no-repeat center;
+}
+
+span.icon.facebook {
+    -webkit-mask: url('../assets/icons/facebook.svg') no-repeat center;
+    mask: url('../assets/icons/facebook.svg') no-repeat center;
+}
+
+span.icon.twitter {
+    -webkit-mask: url('../assets/icons/twitter.svg') no-repeat center;
+    mask: url('../assets/icons/twitter.svg') no-repeat center;
+}

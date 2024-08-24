@@ -196,8 +196,21 @@ main section.products div a {
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
     border: 1px solid rgba(255, 255, 255, 0.3);
-
 }
+
+main section.frames {
+    height: fit-content;
+    padding-right: 1rem;
+}
+
+main section.frames img {
+    width: 100%;
+    height: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    border-radius: 1rem;
+}
+
 footer {
     background-color: var(--color-Acapulco-950);
     color: var(--color-GreenSmoke-100);

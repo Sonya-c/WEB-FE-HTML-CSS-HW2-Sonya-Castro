@@ -2,7 +2,7 @@
 
 ## Description
 
-You will choose a product or a service, any product or service you would like to sell. You will create a landing page where you will display information about your product and an additional page as a contact form.
+This project is a page for a lens company: gafufos. This company sells lenses, frames and offers medical evaluation. On this page, CSS technologies such as grid, flex and colors were used to create an eye-catching and creative page.
 
 ## Acceptance Criteria:
 

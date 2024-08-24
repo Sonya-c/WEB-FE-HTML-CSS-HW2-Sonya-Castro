@@ -5,9 +5,11 @@
 
 * {
     transition: .2s;
+    box-sizing: content-box;
 }
 
 body {
+    overflow-x: hidden;
     margin: 0;
     padding: 0;
     font-family: var(--font-Lato);

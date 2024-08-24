@@ -97,6 +97,45 @@ aside div.social-media span.icon:hover {
     background-color: var(--color-Bouquet-600);
 }
 
+
+main section.about {
+    background-color: var(--color-Acapulco-800);
+    color: var(--color-GreenSmoke-100);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1.5rem 1rem;
+    position: relative;
+}
+
+main section.about h2 {
+    font-family: var(--font-Galada);
+    font-weight: 300;
+    font-size: xx-large;
+    margin-bottom: 0;
+}
+
+main section.about p {
+    max-width: 80%;
+}
+
+main section.about img {
+    position: absolute;
+    top: 20px;
+    width: 150px;
+}
+
+main section.about img.right {
+    right: 0px;
+    transform: rotate(15deg);
+}
+
+main section.about img.left {
+    left: 0px;
+    transform: rotate(-15deg);
+}
+
 footer {
     background-color: var(--color-Acapulco-950);
     color: var(--color-GreenSmoke-100);
